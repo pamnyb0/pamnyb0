@@ -7,7 +7,7 @@ Enthusiastically learning HTML, CSS, JavaScript, Agile Development, and much mor
 
 📚 Current Focus:
 
-Working through the course Grundläggande Programmering (Introduction to Programming).
+Working through the course Javascript 1.
 Building my skills in logic, structure, and effective coding practices.
 Excited to dive deeper into JavaScript and advanced programming techniques.
 
@@ -17,7 +17,8 @@ Excited to dive deeper into JavaScript and advanced programming techniques.
 A simple, visually engaging design.
 Highlights of influential figures like Tim Berners-Lee, Vint Cerf, Google, and Elon Musk.
 Custom logo inspired by my domain name, VelkynSpire.
-Check it out here:  [Internets Utveckling Historia](https://pamnyb0.github.io/Internets-Utveckling-Historia/)
+Check it out here:  [Internets Utveckling Historia](https://pamnyb0.github.io/Internets-Utveckling-Historia/
+)
 
 ✨ Looking to Collaborate On:
 
