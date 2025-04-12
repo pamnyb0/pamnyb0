@@ -7,7 +7,7 @@ Enthusiastically learning HTML, CSS, JavaScript, Agile Development, and much mor
 
 📚 Current Focus:
 
-Working through the course Javascript 1.
+Working through the course of advanced programming.
 Building my skills in logic, structure, and effective coding practices.
 Excited to dive deeper into JavaScript and advanced programming techniques.
 
