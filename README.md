@@ -18,6 +18,10 @@ Custom logo inspired by my domain name, VelkynSpire.
 Check it out here:  [Internets Utveckling Historia](https://pamnyb0.github.io/Internets-Utveckling-Historia/
 )
 
+✍️ Care more about content creation than pure technical coding?
+
+In addition to developing software, I build highly structured narratives, including a fiction project rooted in the Forgotten Realms universe of Dungeons & Dragons, designed to align fully with established canon across 30+ official sources, and an original fantasy setting inspired by Nordic mythology, Iron Age Scandinavia, and regional folklore. This disciplined approach to worldbuilding deepens my skills in system thinking, consistency, and user immersion, qualities I bring into all creative and technical projects.
+
 ✨ Looking to Collaborate On:
 
 Frontend and web design projects.
