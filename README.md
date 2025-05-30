@@ -9,14 +9,23 @@ Exploring publishing tools and content management systems (CMS) with WordPress.
 Developing skills in theme customization, plugin integration, structured content creation, and e-commerce solutions with WooCommerce.
 Building practical expertise in modern website management, online store configuration, and payment system integration
 
-💻 Past Projects:
+💻 Some of My Past Projects:
 
-"Internet’s Development History" Website: My first ever website, created during the HTML and CSS with Agile Methods course. It features:
+2024 - "Internet’s Development History" Website: My first ever website, created during the HTML and CSS with Agile Methods course. It features:
 A simple, visually engaging design.
 Highlights of influential figures like Tim Berners-Lee, Vint Cerf, Google, and Elon Musk.
 Custom logo inspired by my domain name, VelkynSpire.
-Check it out here:  [Internets Utveckling Historia](https://pamnyb0.github.io/Internets-Utveckling-Historia/
-)
+Check it out here:  [Internets Utveckling Historia](https://pamnyb0.github.io/Internets-Utveckling-Historia/)
+📹 [LinkedIn Showcase Post](https://www.linkedin.com/feed/update/urn:li:activity:7266050374078193664/)
+
+2025 - "The Vault" – Dungeons & Dragons-Themed E-commerce Site
+My first full WordPress project, created during the course Publiceringsverktyg at TUC Yrkeshögskola. It includes:
+• A functioning WooCommerce store
+• Custom CSS design inspired by the Underdark (D&D)
+• Product-linked blog posts, GTranslate, and user roles
+• Contact form (WPForms) and analytics (Independent Analytics)
+🔗 [Visit The Vault](https://pamelanybergwebd24jon.burns.se/)
+📹 [LinkedIn Showcase Post](https://www.linkedin.com/feed/update/urn:li:activity:7334220532768296961/)
 
 ✍️ Care more about content creation than pure technical coding?
 
