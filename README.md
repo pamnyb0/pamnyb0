@@ -42,7 +42,7 @@ Connect with me on [LinkedIn](http://www.linkedin.com/in/pamelanyberg-wd/!) !
 
 
 🎉 Fun Fact:
-I designed my own logo and spent hours ensuring the transparency and quality were just right!
+I designed a persoinal logo to use in many of my shcool projects and I spent hours ensuring the transparency and quality were just right!
 Let me know what you think about my projects or connect if you're interested in web development discussions!
 
 <!---
