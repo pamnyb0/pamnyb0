@@ -35,6 +35,22 @@ My first full WordPress project, created during the course Publiceringsverktyg a
 🔗 [Visit The Vault](https://pamelanybergwebd24jon.burns.se/)
 📹 [LinkedIn Showcase Post](https://www.linkedin.com/feed/update/urn:li:activity:7334220532768296961/)
 
+### 🔧 Featured Group Project: [TechPulse_GroupVersion](https://github.com/pamnyb0/TechPulse_GroupVersion)
+
+As part of a collaborative course project, I led multiple integration and debugging efforts in a simulated e-commerce platform built with **C#**, **ASP.NET Core MVC**, and **Entity Framework**. The application was structured into modules representing various business functionalities (authentication, product catalog, order handling, etc.).
+
+**My contributions included:**
+
+- 🧠 **Planning and Orchestration:** I took ownership of integrating Modules 1, 2, 3, and 5 across different team contributors.  
+- 🛠 **Debugging & Compatibility Fixes:** Analyzed code conflicts and corrected cross-module issues to ensure runtime stability and feature cohesion.  
+- 🔐 **Authentication Logic (Module 3):** Implemented and debugged admin login functionality, including secure access to order histories.  
+- 🧪 **Testing and Validation:** Created and followed structured testing scenarios to ensure UI flow, database integrity, and logic isolation.  
+- 📑 **Documentation:** Authored detailed logs of module-specific fixes and integration steps to assist team coordination and future maintenance.  
+- 🤝 **Version Control Workflow:** Used Git branching strategies and conflict resolution techniques to maintain a clean commit history.
+
+This project was a crash course in *real-world complexity*: debugging other people's code, understanding foreign architecture, communicating across team boundaries, and delivering results under pressure.
+
+> 📌 _"This project strengthened my ability to work autonomously, manage dependencies across modules, and document solutions for team alignment. It also deepened my practical understanding of MVC architecture, session handling, and user role logic in ASP.NET."_ 
 
 ✨ Looking to Collaborate On:
 
