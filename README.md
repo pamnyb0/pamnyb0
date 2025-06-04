@@ -62,11 +62,8 @@ Opportunities to refine my skills in agile workflows and team development.
 Connect with me on [LinkedIn](http://www.linkedin.com/in/pamelanyberg-wd/!) !
 
 
-🎉 Fun Fact:
-I designed a persoinal logo to use in many of my shcool projects and I spent hours ensuring the transparency and quality were just right!
-Let me know what you think about my projects or connect if you're interested in web development discussions!
+🎉 **Fun Fact:**  
+I designed a personal logo that's been featured in several of my school projects. I spent quite a bit of time fine-tuning the transparency and quality to get it just right.  
+*Thank you, decades-old Photoshop skills, still holding up strong.*
 
-<!---
-pamnyb0/pamnyb0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to connect if you're into web development, want to collaborate or want to share feedback on any of my projects!
