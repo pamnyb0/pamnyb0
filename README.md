@@ -68,4 +68,4 @@ I designed a personal logo that's been featured in several of my school projects
 
 Feel free to connect if you're into web development, want to collaborate or want to share feedback on any of my projects!
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=pamnyb0&style=flat&color=blue)
+![visitors](https://komarev.com/ghpvc/?username=pamnyb0&label=PROFILE+VIEWS&color=6f42c1&style=flat-square)
