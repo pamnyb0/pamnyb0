@@ -1,7 +1,7 @@
 
 🌟 About Me:
 
-Aspiring Web Developer currently studying at TUC Sweden AB – Yrkeshögskola in the Web Development Program. 🚀 Passionate about creating functional, aesthetic, and user-focused websites. Skilled in HTML, CSS, JavaScript, C#, and SQL. Experienced with modern web development frameworks such as ASP.NET Core, Razor Pages, MVC, Blazor, and Entity Framework Core. Strong foundation in Object-Oriented Programming (OOP), Test-Driven Development (TDD), and Agile methodologies.
+Aspiring Web Developer currently studying at TUC Yrkeshögskola in the Web Development Program. 🚀 Passionate about creating functional, aesthetic, and user-focused websites. Skilled in HTML, CSS, JavaScript, C#, and SQL. Experienced with modern web development frameworks such as ASP.NET Core, Razor Pages, MVC, Blazor, and Entity Framework Core. Strong foundation in Object-Oriented Programming (OOP), Test-Driven Development (TDD), and Agile methodologies.
 
 Also familiar with CMS and publishing tools including WordPress, WooCommerce, and Umbraco.
 
