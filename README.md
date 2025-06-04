@@ -8,11 +8,12 @@ Also familiar with CMS and publishing tools including WordPress, WooCommerce, an
 📚 Current Focus:
 
 I am currently working on UX and Design for Developers. The course emphasizes:
-	•	Accessibility (WCAG 2.1/2.2), semantic HTML, keyboard navigation, and contrast
-	•	Designing and interpreting layouts in Figma, with attention to flow, hierarchy, and components
-	•	Writing effective UX copy (buttons, labels, messages) that guides user behavior
-	•	Applying Mobile First principles and responsive design techniques using flexbox, grid, and media queries
-	•	Conducting user tests, analyzing behavior, and iterating designs based on feedback
+
+- **Accessibility** (WCAG 2.1/2.2), semantic HTML, keyboard navigation, and contrast  
+- **Designing and interpreting layouts in Figma**, with attention to flow, hierarchy, and components  
+- **Writing effective UX copy** (buttons, labels, messages) that guides user behavior  
+- **Applying Mobile First principles** and responsive design techniques using flexbox, grid, and media queries  
+- **Conducting user tests**, analyzing behavior, and iterating designs based on feedback 
 
 Through hands-on labs and analysis, I’m refining my ability to think from the user’s perspective while balancing technical structure and real-world constraints
 
