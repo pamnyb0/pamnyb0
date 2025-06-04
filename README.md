@@ -67,3 +67,5 @@ I designed a personal logo that's been featured in several of my school projects
 *Thank you, decades-old Photoshop skills, still holding up strong.*
 
 Feel free to connect if you're into web development, want to collaborate or want to share feedback on any of my projects!
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=pamnyb0&style=flat&color=blue)
