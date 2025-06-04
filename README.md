@@ -35,9 +35,6 @@ My first full WordPress project, created during the course Publiceringsverktyg a
 🔗 [Visit The Vault](https://pamelanybergwebd24jon.burns.se/)
 📹 [LinkedIn Showcase Post](https://www.linkedin.com/feed/update/urn:li:activity:7334220532768296961/)
 
-✍️ Care more about content creation than pure technical coding?
-
-In addition to developing software, I build highly structured narratives, including a fiction project rooted in the Forgotten Realms universe of Dungeons & Dragons, designed to align fully with established canon across 30+ official sources, and an original fantasy setting inspired by Nordic mythology, Iron Age Scandinavia, and regional folklore. This disciplined approach to worldbuilding deepens my skills in system thinking, consistency, and user immersion, qualities I bring into all creative and technical projects.
 
 ✨ Looking to Collaborate On:
 
