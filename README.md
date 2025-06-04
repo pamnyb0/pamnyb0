@@ -1,13 +1,20 @@
 
 🌟 About Me:
 
-Aspiring Web Developer currently studying at TUC Sweden AB - Yrkeshögskola in the Web Development Program. 🚀 Passionate about creating functional, aesthetic, and user-focused websites. Skilled in HTML, CSS, JavaScript, C#, and SQL. Experienced with modern web development frameworks such as ASP.NET Core, Razor Pages, MVC, Blazor, and Entity Framework Core. Strong foundation in Object-Oriented Programming (OOP), Test-Driven Development (TDD), and Agile methodologies.
+Aspiring Web Developer currently studying at TUC Sweden AB – Yrkeshögskola in the Web Development Program. 🚀 Passionate about creating functional, aesthetic, and user-focused websites. Skilled in HTML, CSS, JavaScript, C#, and SQL. Experienced with modern web development frameworks such as ASP.NET Core, Razor Pages, MVC, Blazor, and Entity Framework Core. Strong foundation in Object-Oriented Programming (OOP), Test-Driven Development (TDD), and Agile methodologies.
+
+Also familiar with CMS and publishing tools including WordPress, WooCommerce, and Umbraco.
 
 📚 Current Focus:
 
-Exploring publishing tools and content management systems (CMS) with WordPress.
-Developing skills in theme customization, plugin integration, structured content creation, and e-commerce solutions with WooCommerce.
-Building practical expertise in modern website management, online store configuration, and payment system integration
+I am currently working on UX and Design for Developers. The course emphasizes:
+	•	Accessibility (WCAG 2.1/2.2), semantic HTML, keyboard navigation, and contrast
+	•	Designing and interpreting layouts in Figma, with attention to flow, hierarchy, and components
+	•	Writing effective UX copy (buttons, labels, messages) that guides user behavior
+	•	Applying Mobile First principles and responsive design techniques using flexbox, grid, and media queries
+	•	Conducting user tests, analyzing behavior, and iterating designs based on feedback
+
+Through hands-on labs and analysis, I’m refining my ability to think from the user’s perspective while balancing technical structure and real-world constraints
 
 💻 Some of My Past Projects:
 
