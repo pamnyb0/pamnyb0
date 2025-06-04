@@ -57,6 +57,12 @@ This project was a crash course in *real-world complexity*: debugging other peop
 Frontend and web design projects.
 Opportunities to refine my skills in agile workflows and team development.
 
+🔍 I'm also looking for internship opportunities (LIA) as part of my education:
+• LIA 1: Week 33–40 (Aug–Oct ’25)  
+• LIA 2: Week 50–14 (Dec–Mar ’26)
+
+Whether it's an internship, freelance gig, or creative dev partnership, I’d love to hear from you!
+
 📫 How to Reach Me:
 
 Connect with me on [LinkedIn](http://www.linkedin.com/in/pamelanyberg-wd/!) !
@@ -66,6 +72,6 @@ Connect with me on [LinkedIn](http://www.linkedin.com/in/pamelanyberg-wd/!) !
 I designed a personal logo that's been featured in several of my school projects. I spent quite a bit of time fine-tuning the transparency and quality to get it just right.  
 *Thank you, decades-old Photoshop skills, still holding up strong.*
 
-Feel free to connect if you're into web development, want to collaborate or want to share feedback on any of my projects!
+Feel free to connect if you're into web development, enjoy sharing feedback, or see potential for collaboration! 👩‍💻
 
 ![visitors](https://komarev.com/ghpvc/?username=pamnyb0&label=PROFILE+VIEWS&color=6f42c1&style=flat-square)
