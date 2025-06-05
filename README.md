@@ -7,7 +7,7 @@ Also familiar with CMS and publishing tools including WordPress, WooCommerce, an
 
 📚 Current Focus:
 
-I am currently working on UX and Design for Developers. The course emphasizes:
+As part of my web development program, I’m currently working through a UX and Design course. The course emphasizes:
 
 - **Accessibility** (WCAG 2.1/2.2), semantic HTML, keyboard navigation, and contrast  
 - **Designing and interpreting layouts in Figma**, with attention to flow, hierarchy, and components  
