@@ -39,20 +39,32 @@ My first full WordPress project, created during the course Publiceringsverktyg a
 
 ### 🔧 Featured Group Project: [TechPulse_GroupVersion](https://github.com/pamnyb0/TechPulse_GroupVersion)
 
-As part of a collaborative course project, I led multiple integration and debugging efforts in a simulated e-commerce platform built with **C#**, **ASP.NET Core MVC**, and **Entity Framework**. The application was structured into modules representing various business functionalities (authentication, product catalog, order handling, etc.).
+As part of the *Fördjupning Programmering* course, I participated in a collaborative development of a simulated e-commerce platform using **C#**, **ASP.NET Core MVC**, **ASP.NET Core Web API**, and **Entity Framework Core**. This large-scale group project was divided into modular units representing key business features such as authentication, product catalog, order handling, and admin dashboards.
 
 **My contributions included:**
 
-- 🧠 **Planning and Orchestration:** I took ownership of integrating Modules 1, 2, 3, and 5 across different team contributors.  
-- 🛠 **Debugging & Compatibility Fixes:** Analyzed code conflicts and corrected cross-module issues to ensure runtime stability and feature cohesion.  
-- 🔐 **Authentication Logic (Module 3):** Implemented and debugged admin login functionality, including secure access to order histories.  
-- 🧪 **Testing and Validation:** Created and followed structured testing scenarios to ensure UI flow, database integrity, and logic isolation.  
-- 📑 **Documentation:** Authored detailed logs of module-specific fixes and integration steps to assist team coordination and future maintenance.  
-- 🤝 **Version Control Workflow:** Used Git branching strategies and conflict resolution techniques to maintain a clean commit history.
+- **🧠 Integration Planning & Coordination**  
+  Took ownership of integrating Modules 1, 2, 3, and 5 across multiple team members' repositories, ensuring architectural cohesion and cross-module communication.
 
-This project was a crash course in *real-world complexity*: debugging other people's code, understanding foreign architecture, communicating across team boundaries, and delivering results under pressure.
+- **🛠️ Debugging & Compatibility Fixes**  
+  Identified, reproduced, and resolved runtime issues related to view-model mismatches, state inconsistencies, and controller logic across merged modules.
 
-> 📌 _"This project strengthened my ability to work autonomously, manage dependencies across modules, and document solutions for team alignment. It also deepened my practical understanding of MVC architecture, session handling, and user role logic in ASP.NET."_ 
+- **🔐 Authentication & Admin Logic (Module 3)**  
+  Built and tested secure login workflows for admin users. Implemented access controls to ensure order history and management views were role-restricted.
+
+- **🧪 Unit Testing using xUnit**  
+  Created test cases following the `Arrange-Act-Assert` pattern to validate critical service layer logic. Simulated error scenarios and boundary cases for login flows and product listings.
+
+- **🌐 ASP.NET Core Web API Endpoints**  
+  Participated in the implementation of RESTful API endpoints used to fetch and persist order and product data. Ensured controller responses matched frontend expectations.
+
+- **📑 Documentation**  
+  Maintained a detailed changelog, setup instructions, and developer notes across the modules I managed. Ensured teammates could trace logic, understand former mistakes and continue development with minimal friction.
+
+- **🤝 Version Control & Git Workflow**  
+  Merged and rebased branches, resolved merge conflicts, and helped enforce consistent Git practices including descriptive commit messages and PR reviews.
+
+> 📌 _“This project gave me hands-on experience in handling architectural complexity, integrating REST-style Web API endpoints, and coordinating with a team under realistic development pressure. It also sharpened my practical skills in session handling, user roles, and MVC-based design.”_
 
 ✨ Looking to Collaborate On:
 
