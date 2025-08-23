@@ -72,7 +72,6 @@ Frontend and web design projects.
 Opportunities to refine my skills in agile workflows and team development.
 
 🔍 I'm also looking for internship opportunities (LIA) as part of my education:  
-• **LIA 1**: Week 33–40 (Aug–Oct ’25)  
 • **LIA 2**: Week 50–14 (Dec–Mar ’26)
 
 Whether it's an internship, freelance gig, or creative dev partnership, I’d love to hear from you!
