@@ -3,21 +3,39 @@
 
 Aspiring Web Developer currently studying at **TUC Yrkeshögskola** in the Web Development Program. 🚀 Passionate about creating functional, aesthetic, and user-focused websites.
 
-Skilled in **HTML, CSS, JavaScript, C#, and SQL**. Experienced with modern web development frameworks such as **ASP.NET Core, Web API, EF Core, Razor Pages, MVC, and Blazor**. Strong foundation in **Object-Oriented Programming (OOP)**, **Test-Driven Development (TDD)** using the **Arrange–Act–Assert structure**, exposure to **Behavior-Driven Development (BDD)**, and Agile methodologies.   
+Skilled in **HTML, CSS, JavaScript, C#, and SQL**. Experienced with modern web development frameworks such as **ASP.NET Core, Web API, EF Core, Razor Pages, MVC, and Blazor**. Strong foundation in **Object-Oriented Programming (OOP)**, **Test-Driven Development (TDD)** using the **Arrange–Act–Assert structure**, exposure to **Behavior-Driven Development (BDD)**, and Agile methodologies.  
 
-Also familiar with CMS and publishing tools including **WordPress, WooCommerce**, and **Umbraco**
+Also familiar with CMS and publishing tools including **WordPress, WooCommerce**, and **Umbraco**.
 
-📚 Current Focus:
+📚 **Recently Completed:**
 
-As part of my web development program, I’m currently working through a UX and Design course. The course emphasizes:
+Finished the **UX and Design** course at TUC Yrkeshögskola — a module focused on accessibility, usability, and creating design systems that truly align with user needs.  
+Key areas of development included:
 
-- **Accessibility** (WCAG 2.1/2.2), semantic HTML, keyboard navigation, and contrast  
-- **Designing and interpreting layouts in Figma**, with attention to flow, hierarchy, and components  
-- **Writing effective UX copy** (buttons, labels, messages) that guides user behavior  
-- **Applying Mobile First principles** and responsive design techniques using flexbox, grid, and media queries  
-- **Conducting user tests**, analyzing behavior, and iterating designs based on feedback 
+- **Accessibility (WCAG 2.1 / 2.2)** – semantic HTML, keyboard navigation and contrast optimization  
+- **Figma Design & Prototyping** – building layouts with flow, hierarchy and component consistency  
+- **UX Writing** – crafting concise and goal-driven microcopy for buttons, labels and messages  
+- **Responsive Design** – applying Mobile First principles with Flexbox, Grid and media queries  
+- **User Testing & Iteration** – analyzing behavior, refining flows and balancing user and business needs  
 
-Through hands-on labs and analysis, I’m refining my ability to think from the user’s perspective while balancing technical structure and real-world constraints
+This course strengthened my ability to bridge technical implementation with design thinking, ensuring every solution is both functional and user-centered.
+
+📚 **Current Focus:**
+
+I’m currently progressing through the **JavaScript 2** course, which explores advanced frontend development using **TypeScript, React, and Angular**.  
+The course emphasizes modern coding standards, asynchronous programming, and scalable architecture.
+
+Focus areas include:
+
+- **Advanced JavaScript Concepts** – classes, modules, async functions, and clean code principles with **ESLint**  
+- **API Communication** – building and consuming REST APIs via **Postman**, **JSON Server**, and backend integration  
+- **React Development** – component-based architecture, state management, form handling and routing with **React Router** and validation via **Formik**  
+- **TypeScript Integration** – static typing, generics, and class-based patterns for scalable frontend applications  
+- **Angular Foundations** – forms, routing, and service-based architecture for enterprise-level solutions  
+- **Tooling & Deployment** – working with **Vite**, **GitHub Actions**, and optimized build pipelines for efficient delivery  
+- **Unit Testing & Best Practices** – writing and structuring tests in **JavaScript, React, and Angular** for maintainable codebases  
+
+Through these modules and hands-on labs, I am refining my ability to plan, structure, and deploy robust frontend solutions that balance performance, readability, and user experience.
 
 💻 Some of My Past Projects:
 
@@ -71,15 +89,18 @@ As part of the *Fördjupning Programmering* course, I participated in a collabor
 Frontend and web design projects.
 Opportunities to refine my skills in agile workflows and team development.
 
-🔍 I'm also looking for internship opportunities (LIA) as part of my education:  
-• **LIA 2**: Week 50–14 (Dec–Mar ’26)
+🔍 **Internship Placement (LIA):**
 
-Whether it's an internship, freelance gig, or creative dev partnership, I’d love to hear from you!
+Both of my internship periods are covered! 
+After completing **LIA 1**, I look forward to starting **LIA 2** at **Hartic AB** and **ByHart** (Boden) under the supervision of **John Mannberg**, between **8 December 2025 – 3 April 2026**.  
+Our focus will be on **revamping and refining the companies’ web presence** through **Figma-based design improvements** and their **final implementation in a collaborative team environment**.  
+I’m genuinely excited to continue growing through this project and contribute with both creativity and technical precision.
+
 
 📫 How to Reach Me:
 
 Connect with me on [LinkedIn](http://www.linkedin.com/in/pamelanyberg-wd/!) !
-
+Whether it's a freelance gig, or creative dev partnership, I’d love to hear from you!
 
 🎉 **Fun Fact:**  
 I designed a personal logo that's been featured in several of my school projects. I spent quite a bit of time fine-tuning the transparency and quality to get it just right.  
