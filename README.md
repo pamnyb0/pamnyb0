@@ -37,11 +37,13 @@ Through these modules and hands-on labs, I refined my ability to plan, structure
 🛠️ **Currently:**
 
 I am currently working on my **exam project**, which is also my personal portfolio website: **[www.pamelanyberg.com](https://www.pamelanyberg.com)**.  
+
 It is being finalized during spring 2026 and should be fully completed around **May**, but as it is also my long-term professional portfolio, it is naturally a project I will keep improving, debugging, and expanding over time.
 
 The site is built as a **multilingual static portfolio** with dynamic elements, designed to bring together my work in one clear and maintainable place: projects, LIA experience, selected writing, presentation, and direct contact. It currently includes structured project rendering through **JSON**, manual language versions in **English, Swedish, and Spanish**, an accessible contact flow, curated updates, and integrated features such as a visitor counter and Zoom booking option.
 
 More than just a school submission, it has become a practical way for me to combine visual identity, structured frontend work, accessibility, localisation thinking, and long-term maintainability in one evolving platform.  
+
 If you are curious, feel free to have a look at **[www.pamelanyberg.com](https://www.pamelanyberg.com)**. ✨
 
 📘 **Further Studies:**
