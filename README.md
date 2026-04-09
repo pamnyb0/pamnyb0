@@ -9,6 +9,7 @@ Also familiar with CMS and publishing tools including **WordPress, WooCommerce**
 📚 **Recently Completed:**
 
 Finished the **UX and Design** course at TUC Yrkeshögskola, a module focused on accessibility, usability, and creating design systems that truly align with user needs.  
+
 Key areas of development included:
 
 - **Accessibility (WCAG 2.1 / 2.2)** - semantic HTML, keyboard navigation, readable hierarchy, and contrast optimization  
