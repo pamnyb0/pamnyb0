@@ -2,35 +2,35 @@
 
 Aspiring Web Developer educated at **TUC Yrkeshögskola** through the **Web Development Program**. 🚀 Passionate about creating functional, aesthetic, and user-focused websites with strong attention to structure, accessibility, and long-term maintainability.
 
-Skilled in **HTML, CSS, JavaScript, C#, and SQL**. Experienced with modern web development frameworks and technologies such as **ASP.NET Core, Web API, EF Core, Razor Pages, MVC, and Blazor**. Strong foundation in **Object-Oriented Programming (OOP)**, **Test-Driven Development (TDD)** using the **Arrange–Act–Assert structure**, exposure to **Behavior-Driven Development (BDD)**, and Agile methodologies.
+Skilled in **HTML, CSS, JavaScript, C#, and SQL**. Experienced with modern web development frameworks and technologies such as **ASP.NET Core, Web API, EF Core, Razor Pages, MVC, and Blazor**. Strong foundation in **Object-Oriented Programming (OOP)**, **Test-Driven Development (TDD)** using the **Arrange-Act-Assert structure**, exposure to **Behavior-Driven Development (BDD)**, and Agile methodologies.
 
 Also familiar with CMS and publishing tools including **WordPress, WooCommerce**, and **Umbraco**.
 
 📚 **Recently Completed:**
 
-Finished the **UX and Design** course at TUC Yrkeshögskola — a module focused on accessibility, usability, and creating design systems that truly align with user needs.  
+Finished the **UX and Design** course at TUC Yrkeshögskola, a module focused on accessibility, usability, and creating design systems that truly align with user needs.  
 Key areas of development included:
 
-- **Accessibility (WCAG 2.1 / 2.2)** – semantic HTML, keyboard navigation, readable hierarchy, and contrast optimization  
-- **Figma Design & Prototyping** – building layouts with flow, consistency, and stronger component logic  
-- **UX Writing** – shaping concise, purposeful microcopy for buttons, labels, and interface messages  
-- **Responsive Design** – applying Mobile First principles with Flexbox, Grid, and media queries  
-- **User Testing & Iteration** – analyzing behavior, refining flows, and balancing user needs with business goals  
+- **Accessibility (WCAG 2.1 / 2.2)** - semantic HTML, keyboard navigation, readable hierarchy, and contrast optimization  
+- **Figma Design & Prototyping** - building layouts with flow, consistency, and stronger component logic  
+- **UX Writing** - shaping concise, purposeful microcopy for buttons, labels, and interface messages  
+- **Responsive Design** - applying Mobile First principles with Flexbox, Grid, and media queries  
+- **User Testing & Iteration** - analyzing behavior, refining flows, and balancing user needs with business goals  
 
 This course strengthened my ability to bridge technical implementation with design thinking, ensuring every solution is both functional and user-centered.
 
-Finished the **JavaScript 2** course at TUC Yrkeshögskola — an advanced frontend module centered on modern JavaScript development with **TypeScript, React, and Angular**.  
+Finished the **JavaScript 2** course at TUC Yrkeshögskola, an advanced frontend module centered on modern JavaScript development with **TypeScript, React, and Angular**.  
 The course emphasized scalable architecture, clean code, asynchronous programming, and stronger frontend structure.
 
 Focus areas included:
 
-- **Advanced JavaScript Concepts** – classes, modules, async functions, and clean code principles supported by **ESLint**  
-- **API Communication** – building and consuming REST APIs through **Postman**, **JSON Server**, and backend integration  
-- **React Development** – component-based architecture, state handling, forms, routing with **React Router**, and validation with **Formik**  
-- **TypeScript Integration** – static typing, generics, and scalable frontend patterns  
-- **Angular Foundations** – forms, routing, and service-based architecture suitable for more structured applications  
-- **Tooling & Deployment** – working with **Vite**, **GitHub Actions**, and efficient build workflows  
-- **Unit Testing & Best Practices** – writing and organizing tests in **JavaScript, React, and Angular** for more maintainable codebases  
+- **Advanced JavaScript Concepts** - classes, modules, async functions, and clean code principles supported by **ESLint**  
+- **API Communication** - building and consuming REST APIs through **Postman**, **JSON Server**, and backend integration  
+- **React Development** - component-based architecture, state handling, forms, routing with **React Router**, and validation with **Formik**  
+- **TypeScript Integration** - static typing, generics, and scalable frontend patterns  
+- **Angular Foundations** - forms, routing, and service-based architecture suitable for more structured applications  
+- **Tooling & Deployment** - working with **Vite**, **GitHub Actions**, and efficient build workflows  
+- **Unit Testing & Best Practices** - writing and organizing tests in **JavaScript, React, and Angular** for more maintainable codebases  
 
 Through these modules and hands-on labs, I refined my ability to plan, structure, test, and deliver modern frontend solutions that balance performance, readability, and user experience.
 
@@ -46,7 +46,7 @@ If you are curious, feel free to have a look at **[www.pamelanyberg.com](https:/
 
 📘 **Further Studies:**
 
-Alongside finalizing my exam project and portfolio, I have also been admitted to the **Test Automation with Python** course at **NBI/Handelsakademin**, starting on **13 April 2026**. The programme includes **test methodology and requirements**, **programming with Python**, **test automation and test tools**, and **tech for sustainable development**.  [oai_citation:1‡Projektplan – Examensarbete .docx](sediment://file_0000000011c4720aadca9ba042ecbf51)
+Alongside finalizing my exam project and portfolio, I have also been admitted to the **Test Automation with Python** course at **NBI/Handelsakademin**, starting on **13 April 2026**.
 
 This strengthens my profile with more focused work in testing, automation, and structured quality assurance, alongside the web development foundation I have already built.
 
@@ -61,7 +61,7 @@ My first ever website, created during the HTML and CSS with Agile Methods course
 🔗 [Internets Utveckling Historia](https://pamnyb0.github.io/Internets-Utveckling-Historia/)  
 📹 [LinkedIn Showcase Post](https://www.linkedin.com/feed/update/urn:li:activity:7266050374078193664/)
 
-**2025 - "The Vault" – Dungeons & Dragons-Themed E-commerce Site**  
+**2025 - "The Vault" - Dungeons & Dragons-Themed E-commerce Site**  
 My first full WordPress project, created during the course **Publiceringsverktyg** at TUC Yrkeshögskola. It includes:
 - A functioning WooCommerce store
 - Custom CSS design inspired by the Underdark (D&D)
@@ -98,7 +98,7 @@ As part of the *Fördjupad Programmering* course, I participated in the collabor
 - **🤝 Version Control & Git Workflow**  
   Merged and rebased branches, resolved merge conflicts, and helped enforce consistent Git practices including descriptive commit messages and pull request reviews.
 
-> 📌 _“This project gave me hands-on experience in handling architectural complexity, integrating REST-style Web API endpoints, and coordinating with a team under realistic development pressure. It also sharpened my practical skills in session handling, user roles, and MVC-based design.”_
+> 📌 _"This project gave me hands-on experience in handling architectural complexity, integrating REST-style Web API endpoints, and coordinating with a team under realistic development pressure. It also sharpened my practical skills in session handling, user roles, and MVC-based design."_
 
 ✨ Looking to Collaborate On:
 
