@@ -117,6 +117,7 @@ Or visit **[www.pamelanyberg.com](https://www.pamelanyberg.com)** to explore my 
 Whether it is a collaboration, a creative dev partnership, or a professional opportunity, I would be glad to connect.
 
 🎉 **Fun Fact:**  
+
 I designed a personal logo that has been featured in several of my school projects. I spent quite a bit of time fine-tuning transparency, sharpness, and image quality to get it just right.  
 *Thank you, decades-old Photoshop skills, still holding up strong.*
 
