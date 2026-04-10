@@ -112,6 +112,7 @@ As part of the *Fördjupad Programmering* course, I participated in the collabor
 📫 How to Reach Me:
 
 Connect with me on [LinkedIn](http://www.linkedin.com/in/pamelanyberg-wd/)!  
+
 Or visit **[www.pamelanyberg.com](https://www.pamelanyberg.com)** to explore my portfolio directly.
 
 Whether it is a collaboration, a creative dev partnership, or a professional opportunity, I would be glad to connect.
