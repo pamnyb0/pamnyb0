@@ -1,6 +1,6 @@
 🌟 About Me:
 
-Aspiring Web Developer educated at **TUC Yrkeshögskola** through the **Web Development Program**. 🚀 Passionate about creating functional, aesthetic, and user-focused websites with strong attention to structure, accessibility, and long-term maintainability.
+Fullstack Web Developer educated at **TUC Yrkeshögskola** through the **Web Development Program**. 🚀 Passionate about creating functional, aesthetic, and user-focused websites with strong attention to structure, accessibility, and long-term maintainability.
 
 Skilled in **HTML, CSS, JavaScript, C#, and SQL**. Experienced with modern web development frameworks and technologies such as **ASP.NET Core, Web API, EF Core, Razor Pages, MVC, and Blazor**. Strong foundation in **Object-Oriented Programming (OOP)**, **Test-Driven Development (TDD)** using the **Arrange-Act-Assert structure**, exposure to **Behavior-Driven Development (BDD)**, and Agile methodologies.
 
