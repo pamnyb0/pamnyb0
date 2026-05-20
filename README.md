@@ -157,7 +157,7 @@ As part of the *Fördjupad Programmering* course, I participated in the collabor
 ✨ Looking to Collaborate On:
 
 - Frontend and web design projects  
-- Opportunities to refine my skills in agile workflows and team development  
+- Opportunities involving agile workflows, structured collaboration, and maintainable development  
 - Practical, thoughtful web solutions where structure, usability, and visual coherence matter
 
 📫 How to Reach Me:
