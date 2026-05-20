@@ -91,7 +91,7 @@ The project became more than a school submission. It developed into a production
 >
 > _The feedback highlighted planning, structure, semantic development, accessibility, UX, SEO, metadata, responsiveness, multilingual content, and production-oriented problem solving._
 >
-> _During the final presentation, it was specifically noted Portfolio Hub’s distinctive, slightly game-inspired atmosphere and non-standard portfolio expression. The visitor counter was also discussed, and its implementation received positive attention when clarified as a real counter tracking visits across the multilingual versions rather than a randomized visual detail._
+> _During the final presentation, Portfolio Hub was specifically noted for its distinctive, slightly game-inspired atmosphere and non-standard portfolio expression. The visitor counter was also discussed, and its implementation received positive attention when clarified as a real counter tracking visits across the multilingual versions rather than a randomized visual detail._
 
 A fuller project write-up, including the extended feedback, is available in the **Projects** section of my portfolio.
 
