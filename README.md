@@ -46,7 +46,7 @@ Focus areas included:
 
 Through these modules and hands-on labs, I refined my ability to plan, structure, test, and deliver modern frontend solutions that balance performance, readability, and user experience.
 
-🛠️ **Completed Exam Project: Portfolio Hub**
+### 🛠️ **Completed Exam Project: Portfolio Hub**
 
 For my final degree project, I developed **Portfolio Hub**, my multilingual professional portfolio website:  
 [www.pamelanyberg.com](https://www.pamelanyberg.com)✨
