@@ -57,9 +57,9 @@ Portfolio Hub is a multilingual static portfolio with dynamic elements, built to
 
 The project became more than a school submission. It developed into a production-oriented portfolio platform where I combined frontend structure, accessibility, localization, UX thinking, visual identity, and maintainability.
 
-📌 **Exam Project Feedback Highlight**
+### 📌 **Exam Project Feedback Highlight**
 
-> _My final degree project received **Väl godkänd** and was described as a well-planned, thoroughly executed, and professional project showing both technical competence and maturity in process and reflection._
+> _My final degree project received **Väl godkänd** _(Swedish for "passed with distinction")_ and was described as a well-planned, thoroughly executed, and professional project showing both technical competence and maturity in process and reflection._
 >
 > _The feedback highlighted planning, structure, semantic development, accessibility, UX, SEO, metadata, responsiveness, multilingual content, and production-oriented problem solving._
 >
