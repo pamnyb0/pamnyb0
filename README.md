@@ -65,7 +65,7 @@ The project became more than a school submission. It developed into a production
 >
 > _Rather than “just another simple portfolio,” Portfolio Hub was recognized as a coherent platform designed to continue beyond the education._
 
-📄 A fuller project write-up, including the extended feedback, is available in the **Projects** section of my portfolio.
+A fuller project write-up, including the extended feedback, is available in the **Projects** section of my portfolio.
 
 📘 **Further Studies**
 
