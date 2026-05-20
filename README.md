@@ -4,6 +4,8 @@ Web Developer educated at **TUC Yrkeshögskola**, where I completed the **Web De
 
 I work with **HTML, CSS, JavaScript, C#, and SQL**, and have experience with technologies such as **ASP.NET Core, Web API, Entity Framework Core, Razor Pages, MVC, Blazor, WordPress, WooCommerce, and Umbraco**. I also have a strong interest in **UX, accessibility, semantic structure, multilingual content, CMS workflows, and quality-focused development**.
 
+I am currently continuing my technical development through additional studies in **Test Automation with Python** and **Cloud Development**, strengthening my profile in testing, automation, QA, cloud architecture, deployment workflows, and production-aware development.
+
 During the programme, I completed the majority of my courses with **Väl godkänd** _(Passed with distinction)_, including **Design och UX, JavaScript 2, LIA 1, LIA 2, Publiceringsverktyg, and my final degree project**.
 
 💼 **Workplace-Based Learning (LIA)**
