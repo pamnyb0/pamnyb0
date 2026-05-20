@@ -59,7 +59,7 @@ The project became more than a school submission. It developed into a production
 
 ### 📌 **Exam Project Feedback Highlight**
 
-> _My final degree project received **Väl godkänd** _(Swedish for "passed with distinction")_ and was described as a well-planned, thoroughly executed, and professional project showing both technical competence and maturity in process and reflection._
+> _My final degree project received **Väl godkänd** (Swedish for "passed with distinction") and was described as a well-planned, thoroughly executed, and professional project showing both technical competence and maturity in process and reflection._
 >
 > _The feedback highlighted planning, structure, semantic development, accessibility, UX, SEO, metadata, responsiveness, multilingual content, and production-oriented problem solving._
 >
