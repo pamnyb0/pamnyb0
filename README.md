@@ -50,7 +50,7 @@ Through these modules and hands-on labs, I refined my ability to plan, structure
 🛠️ **Completed Exam Project: Portfolio Hub**
 
 For my final degree project, I developed **Portfolio Hub**, my multilingual professional portfolio website:  
-**[www.pamelanyberg.com](https://www.pamelanyberg.com)**✨
+[www.pamelanyberg.com](https://www.pamelanyberg.com)✨
 
 The project was completed as my **examensarbete** at TUC Yrkeshögskola and received the grade **Väl godkänd**.
 
