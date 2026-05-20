@@ -1,12 +1,24 @@
 🌟 About Me:
 
-Fullstack Web Developer educated at **TUC Yrkeshögskola** through the **Web Development Program**. 🚀 Passionate about creating functional, aesthetic, and user-focused websites with strong attention to structure, accessibility, and long-term maintainability.
+Web Developer educated at **TUC Yrkeshögskola**, where I completed the **Web Development programme** with a Higher Vocational Education Diploma in 2026. My work focuses on practical, accessible, and user-centered web development, with strong attention to structure, maintainability, visual coherence, and long-term usability.
 
-Skilled in **HTML, CSS, JavaScript, C#, and SQL**. Experienced with modern web development frameworks and technologies such as **ASP.NET Core, Web API, EF Core, Razor Pages, MVC, and Blazor**. Strong foundation in **Object-Oriented Programming (OOP)**, **Test-Driven Development (TDD)** using the **Arrange-Act-Assert structure**, exposure to **Behavior-Driven Development (BDD)**, and Agile methodologies.
+I work with **HTML, CSS, JavaScript, C#, and SQL**, and have experience with technologies such as **ASP.NET Core, Web API, Entity Framework Core, Razor Pages, MVC, Blazor, WordPress, WooCommerce, and Umbraco**. I also have a strong interest in **UX, accessibility, semantic structure, multilingual content, CMS workflows, and quality-focused development**.
 
-Also familiar with CMS and publishing tools including **WordPress, WooCommerce**, and **Umbraco**.
+During the programme, I completed the majority of my courses with **Väl godkänd**, including **Design och UX, JavaScript 2, LIA 1, LIA 2, Publiceringsverktyg, and my final degree project**.
 
-📚 **Recently Completed:**
+💼 **Workplace-Based Learning (LIA)**
+
+During my Web Development programme, I completed two workplace-based learning periods:
+
+**LIA 1 – Dala Hud och Skönhet**  
+Focused on e-commerce migration, product catalog structure, metadata, SEO-oriented product text, alt texts, internal links, categorization, and content quality in Webbskap.
+
+**LIA 2 – Hartic AB**  
+Focused on WordPress/Elementor development, multilingual structure with Polylang, UX improvements, semantic structure, accessibility awareness, page layout, content organization, and technical suggestions for future features.
+
+These placements gave me practical experience with real client needs, CMS limitations, content structure, remote communication, and production-oriented web work.
+
+📚 **Selected Completed Coursework**
 
 Finished the **UX and Design** course at TUC Yrkeshögskola, a module focused on accessibility, usability, and creating design systems that truly align with user needs.  
 
@@ -35,23 +47,31 @@ Focus areas included:
 
 Through these modules and hands-on labs, I refined my ability to plan, structure, test, and deliver modern frontend solutions that balance performance, readability, and user experience.
 
-🛠️ **Currently:**
+🛠️ **Completed Exam Project: Portfolio Hub**
 
-I am currently working on my **exam project**, which is also my personal portfolio website: **[www.pamelanyberg.com](https://www.pamelanyberg.com)**.  
+For my final degree project, I developed **Portfolio Hub**, my multilingual professional portfolio website:  
+**[www.pamelanyberg.com](https://www.pamelanyberg.com)**✨
 
-It is being finalized during spring 2026 and should be fully completed around **May**, but as it is also my long-term professional portfolio, it is naturally a project I will keep improving, debugging, and expanding over time.
+The project was completed as my **examensarbete** at TUC Yrkeshögskola and received the grade **Väl godkänd**.
 
-The site is built as a **multilingual static portfolio** with dynamic elements, designed to bring together my work in one clear and maintainable place: projects, LIA experience, selected writing, presentation, and direct contact. It currently includes structured project rendering through **JSON**, manual language versions in **English, Swedish, and Spanish**, an accessible contact flow, curated updates, and integrated features such as a visitor counter and Zoom booking option.
+Portfolio Hub is a multilingual static portfolio with dynamic elements, built to present my projects, LIA experience, selected writing, technical background, and contact paths in one structured and maintainable platform. It includes manual language versions in **English, Swedish, and Spanish**, structured project rendering, accessible contact flow, curated updates, metadata, Open Graph support, responsive layout work, and long-term content organization.
 
-More than just a school submission, it has become a practical way for me to combine visual identity, structured frontend work, accessibility, localisation thinking, and long-term maintainability in one evolving platform.  
+The project became more than a school submission. It developed into a production-oriented portfolio platform where I combined frontend structure, accessibility, localization, UX thinking, visual identity, and maintainability.
 
-If you are curious, feel free to have a look at **[www.pamelanyberg.com](https://www.pamelanyberg.com)**. ✨
+📌 **Exam Project Feedback Highlight**
 
-📘 **Further Studies:**
+The project was assessed as a well-planned, thoroughly executed, and professional final degree project, with particular strength in planning, structure, technical reflection, accessibility, UX, SEO, metadata, responsiveness, multilingual content, and production-oriented problem solving.
 
-Alongside finalizing my exam project and portfolio, I have also been admitted to the **Test Automation with Python** course at **NBI/Handelsakademin**, starting on **13 April 2026**.
+The feedback also highlighted the project’s long-term direction: instead of building “just another simple portfolio,” the work developed into a coherent platform that can continue beyond the education.
 
-This strengthens my profile with more focused work in testing, automation, and structured quality assurance, alongside the web development foundation I have already built.
+📘 **Further Studies**
+
+After completing my Web Development diploma, I continued strengthening my technical profile through additional studies in:
+
+- **Test Automation with Python** at NBI/Handelsakademin, focused on test methodology, Python programming, test automation, and quality assurance.
+- **Cloud Development** at NBI/Handelsakademin, focused on cloud architecture, deployment workflows, containers, IAM, migration strategies, and secure system design.
+
+These studies build naturally on my web development background by adding stronger foundations in testing, automation, cloud-oriented development, and production-aware workflows.
 
 💻 Some of My Past Projects:
 
