@@ -32,8 +32,7 @@ Key areas of development included:
 
 This course strengthened my ability to bridge technical implementation with design thinking, ensuring every solution is both functional and user-centered.
 
-The **JavaScript 2** course at TUC Yrkeshögskola was an advanced frontend module centered on modern JavaScript development with **TypeScript, React, and Angular**.  
-The course emphasized scalable architecture, clean code, asynchronous programming, and stronger frontend structure.
+The **JavaScript 2** course at TUC Yrkeshögskola was an advanced frontend module centered on modern JavaScript development with **TypeScript, React, and Angular**. The course emphasized scalable architecture, clean code, asynchronous programming, and stronger frontend structure.
 
 Focus areas included:
 
