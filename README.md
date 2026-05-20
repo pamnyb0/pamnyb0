@@ -59,9 +59,11 @@ The project became more than a school submission. It developed into a production
 
 📌 **Exam Project Feedback Highlight**
 
-The project was assessed as a well-planned, thoroughly executed, and professional final degree project, with particular strength in planning, structure, technical reflection, accessibility, UX, SEO, metadata, responsiveness, multilingual content, and production-oriented problem solving.
-
-The feedback also highlighted the project’s long-term direction: instead of building “just another simple portfolio,” the work developed into a coherent platform that can continue beyond the education.
+> _My final degree project received **Väl godkänd** and was described as a well-planned, thoroughly executed, and professional project showing both technical competence and maturity in process and reflection._
+>
+> _The feedback highlighted planning, structure, semantic development, accessibility, UX, SEO, metadata, responsiveness, multilingual content, and production-oriented problem solving._
+>
+> _Rather than “just another simple portfolio,” Portfolio Hub was recognized as a coherent platform designed to continue beyond the education._
 
 📘 **Further Studies**
 
