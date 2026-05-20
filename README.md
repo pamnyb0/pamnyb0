@@ -20,7 +20,7 @@ These placements gave me practical experience with real client needs, CMS limita
 
 📚 **Selected Completed Coursework**
 
-Finished the **UX and Design** course at TUC Yrkeshögskola, a module focused on accessibility, usability, and creating design systems that truly align with user needs.  
+The **UX and Design** course at TUC Yrkeshögskola was a module focused on accessibility, usability, and creating design systems that truly align with user needs.  
 
 Key areas of development included:
 
@@ -32,7 +32,7 @@ Key areas of development included:
 
 This course strengthened my ability to bridge technical implementation with design thinking, ensuring every solution is both functional and user-centered.
 
-Finished the **JavaScript 2** course at TUC Yrkeshögskola, an advanced frontend module centered on modern JavaScript development with **TypeScript, React, and Angular**.  
+The **JavaScript 2** course at TUC Yrkeshögskola was an advanced frontend module centered on modern JavaScript development with **TypeScript, React, and Angular**.  
 The course emphasized scalable architecture, clean code, asynchronous programming, and stronger frontend structure.
 
 Focus areas included:
