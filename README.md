@@ -8,15 +8,43 @@ During the programme, I completed the majority of my courses with **Väl godkän
 
 💼 **Workplace-Based Learning (LIA)**
 
-During my Web Development programme, I completed two workplace-based learning periods:
+During my Web Development programme, I completed two remote workplace-based learning periods where I worked with real client needs, CMS limitations, content structure, accessibility, SEO, multilingual workflows, and production-oriented web improvements.
 
 **LIA 1 – Dala Hud och Skönhet**  
-Focused on e-commerce migration, product catalog structure, metadata, SEO-oriented product text, alt texts, internal links, categorization, and content quality in Webbskap.
+_E-commerce migration, product structure, metadata, and content quality_
+
+During my first LIA, I worked independently with the migration of Dala Hud & Skönhet’s website to Webbskap while improving the quality and structure of the product catalogue.
+
+Key work included:
+
+- Product transfer to a new platform, including cleanup of outdated items and duplicate products
+- Product description improvements focused on readability, search intent, and conversion
+- Metadata work with meta titles and meta descriptions
+- Alt texts, heading hierarchy, and internal links for better accessibility and navigation
+- Category and tag structure, including edge cases for clearer menu logic
+- Blog draft material with product links to support purchase decisions
+- Basic checks of page titles, indexability, and status reporting
 
 **LIA 2 – Hartic AB**  
-Focused on WordPress/Elementor development, multilingual structure with Polylang, UX improvements, semantic structure, accessibility awareness, page layout, content organization, and technical suggestions for future features.
+_WordPress, Elementor, multilingual structure, UX improvements, and scalable content_
 
-These placements gave me practical experience with real client needs, CMS limitations, content structure, remote communication, and production-oriented web work.
+During my second and final LIA, I worked with Hartic AB, a Swedish SaaS company developing a research-based platform for systematic work environment management. My work focused on improving Hartic’s website from a technical, structural, and user-oriented perspective.
+
+Key work included:
+
+- Development and adjustment of pages in WordPress/Elementor
+- Layout, spacing, color, component structure, and visual consistency improvements
+- Restructuring of content and information architecture for clearer navigation and user flows
+- UX improvements related to readability, CTA structure, visual hierarchy, and content balance
+- English translation/localization and multilingual implementation with Polylang
+- Synchronization between language versions and handling of content differences
+- Identification of Elementor/Polylang limitations connected to layout and structure
+- Semantic HTML awareness, heading hierarchy, and basic accessibility improvements
+- Updates to existing pages to better reflect the platform’s functionality and design
+- Technical suggestions, including a self-assessment quiz with level-based results and PDF generation
+- Weekly documentation focused on progress, problems, results, and improvement proposals
+
+These placements gave me practical experience in remote collaboration, client communication, CMS-based production, iterative improvement, and the kind of structural problem-solving that appears in real web projects.
 
 📚 **Selected Completed Coursework**
 
