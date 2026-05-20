@@ -8,7 +8,7 @@ During the programme, I completed the majority of my courses with **Väl godkän
 
 💼 **Workplace-Based Learning (LIA)**
 
-During my Web Development programme, I completed two remote workplace-based learning periods where I worked with real client needs, CMS limitations, content structure, accessibility, SEO, multilingual workflows, and production-oriented web improvements.
+During my Web Development programme, I completed two workplace-based learning periods where I worked with real client needs, CMS limitations, content structure, accessibility, SEO, multilingual workflows, and production-oriented web improvements.
 
 **LIA 1 – Dala Hud och Skönhet**  
 _E-commerce migration, product structure, metadata, and content quality_
